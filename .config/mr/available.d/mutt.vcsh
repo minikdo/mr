@@ -1,2 +1,2 @@
-[$HOME/.config/vcsh/repo.d/mr.git]
+[$HOME/.config/vcsh/repo.d/mutt.git]
 checkout = vcsh clone ssh://backups@adm/home/backups/vcsh/mutt.git mutt
