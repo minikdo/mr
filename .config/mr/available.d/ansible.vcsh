@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/ansible.git]
+checkout = vcsh clone ssh://backups@adm/home/backups/vcsh/ansible.git ansible
+
