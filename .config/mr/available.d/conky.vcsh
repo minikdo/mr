@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/conky.git]
+checkout = vcsh clone ssh://backups@adm/home/backups/vcsh/conky.git conky
+
