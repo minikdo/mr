@@ -1,5 +1,6 @@
 [DEFAULT]
 git_gc = git gc "$@"
 jobs = 5
+skip = [ "$1" = commit ] && ! hours_since "$1" 24
 
 include = cat ~/.config/mr/config.d/*
