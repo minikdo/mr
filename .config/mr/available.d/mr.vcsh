@@ -1,2 +1,0 @@
-[$HOME/.config/vcsh/repo.d/mr.git]
-checkout = vcsh clone ssh://domino@adm/home/domino/x1/mr.git mr
