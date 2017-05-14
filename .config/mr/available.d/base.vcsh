@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/base.git]
+checkout = vcsh clone git@github.com:minikdo/base.git base
