@@ -1,3 +1,0 @@
-[$HOME/.config/vcsh/repo.d/bin.git]
-checkout = vcsh clone ssh://backups@adm/home/backups/vcsh/bin.git bin
- 

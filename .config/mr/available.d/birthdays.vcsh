@@ -1,3 +1,0 @@
-[$HOME/.config/vcsh/repo.d/birthdays.git]
-checkout = vcsh clone ssh://backups@adm/home/backups/vcsh/birthdays.git birthdays
- 

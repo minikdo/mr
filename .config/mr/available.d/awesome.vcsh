@@ -1,3 +1,0 @@
-[$HOME/.config/vcsh/repo.d/awesome.git]
-checkout = vcsh clone ssh://backups@adm/home/backups/vcsh/awesome.git awesome
-

@@ -1,2 +1,0 @@
-[$HOME/.config/vcsh/repo.d/X11-config.git]
-checkout = vcsh clone ssh://backups@adm/home/backups/vcsh/X11-config.git X11-config

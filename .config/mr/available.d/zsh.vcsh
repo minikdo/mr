@@ -1,3 +1,0 @@
-[$HOME/.config/vcsh/repo.d/zsh.git]
-checkout = vcsh clone ssh://backups@adm/home/backups/vcsh/zsh.git zsh
- 

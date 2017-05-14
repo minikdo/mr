@@ -1,3 +1,0 @@
-[$HOME/.config/vcsh/repo.d/mc.git]
-checkout = vcsh clone ssh://backups@adm/home/backups/vcsh/mc.git mc
- 
