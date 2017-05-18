@@ -1,3 +1,0 @@
-[$HOME/.config/vcsh/repo.d/zsh_history.git]
-checkout = vcsh clone ssh://domino@adm/home/domino/x1/zsh_history.git zsh_history
- 
