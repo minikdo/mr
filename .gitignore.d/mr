@@ -1,0 +1,12 @@
+*
+!/.config
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/base.vcsh
+!/.config/mr/available.d/mr.vcsh
+!/.config/mr/available.d/personal.vcsh
+!/.config/mr/config.d
+!/.config/mr/config.d/base.vcsh
+!/.config/mr/config.d/mr.vcsh
+!/.config/mr/config.d/personal.vcsh
+!/.mrconfig
