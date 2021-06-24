@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/personal.git]
-checkout = vcsh clone ssh://domino@adm/home/domino/x1/personal.git personal
+checkout = vcsh clone ssh://domino@10.0.0.1/home/domino/x1/personal.git personal
