@@ -1,5 +1,1 @@
-[DEFAULT]
-# Teach mr how to `mr gc` in git repos.
-commit = git commit -a -m update
-
 include = cat ~/.config/mr/config.d/*
