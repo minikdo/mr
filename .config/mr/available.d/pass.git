@@ -1,0 +1,4 @@
+[$HOME/.password-store]
+checkout = git clone ssh://domino@10.0.0.1/home/domino/x1/pass-store .password-store
+commit = git push -u origin master
+
