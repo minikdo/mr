@@ -1,0 +1,4 @@
+[$HOME/playbooks/srv]
+checkout = git clone ssh://10.0.0.1/srv/git/ansible/srv.git playbooks/srv
+commit = git push -u origin main
+
