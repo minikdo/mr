@@ -1,4 +1,4 @@
 [$HOME/playbooks/lap]
-checkout = git clone git@github.com:minikdo/laptop.git playbooks/lap
+checkout = git clone git@github.com:minikdo/laptop.git lap
 commit = git push -u origin main
 
