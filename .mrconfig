@@ -2,9 +2,11 @@ include = cat ~/.config/mr/config.d/*
 
 [utils/invoices]
 checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/invoices.git' 'invoices'
+commit = git push origin master
 
 [utils/mt940]
 checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/mt940.git' 'mt940'
+commit = git push origin master
 
 [debian/parcellite]
 checkout = git clone 'git@salsa.debian.org:debian/parcellite.git' 'parcellite'
