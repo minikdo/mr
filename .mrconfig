@@ -8,6 +8,12 @@ commit = git push origin master
 checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/mt940.git' 'mt940'
 commit = git push origin master
 
+[lib/python3/signal_send]
+checkout = git clone 'git@github.com:minikdo/signal_send.git' 'signal_send'
+
+[lib/python3/imap_idle]
+checkout = git clone 'git@github.com:minikdo/imap_idle.git' 'imap_idle'
+
 [debian/parcellite]
 checkout = git clone 'git@salsa.debian.org:debian/parcellite.git' 'parcellite'
 
