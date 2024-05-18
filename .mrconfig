@@ -1,11 +1,11 @@
 include = cat ~/.config/mr/config.d/*
 
-[utils/invoices]
+[lib/python3/invoices]
 checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/invoices.git' 'invoices'
 commit = git push origin master
 
-[utils/mt940]
-checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/mt940.git' 'mt940'
+[lib/python3/mt940_reader]
+checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/mt940_reader.git' 'mt940_reader'
 commit = git push origin master
 
 [lib/python3/signal_send]
@@ -25,3 +25,12 @@ checkout = git clone 'git@salsa.debian.org:debian/viewnior.git' 'viewnior'
 
 [webdev/students-record-book]
 checkout = git clone 'git@github.com:minikdo/students-record-book.git' 'students-record-book'
+
+[webdev/estates-django-admin]
+checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/estates-django-admin.git' 'estates-django-admin'
+
+[webdev/estates-django-site]
+checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/estates-django-site.git' 'estates-django-site'
+
+[webdev/minik]
+checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/minik.git' 'minik'
