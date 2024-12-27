@@ -32,5 +32,8 @@ checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/estates-django-admin.git' 
 [webdev/estates-django-site]
 checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/estates-django-site.git' 'estates-django-site'
 
+[webdev/domino]
+checkout = git clone 'git@github.com:minikdo/domino.git' 'domino'
+
 [webdev/minik]
 checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/minik.git' 'minik'
