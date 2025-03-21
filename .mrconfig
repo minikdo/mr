@@ -37,3 +37,6 @@ checkout = git clone 'git@github.com:minikdo/domino.git' 'domino'
 
 [webdev/minik]
 checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/minik.git' 'minik'
+
+[annex]
+checkout = git clone 'ssh://domino@10.4.2.1/home/domino/annex-nocontent' 'annex'
