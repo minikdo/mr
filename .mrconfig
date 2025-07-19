@@ -26,11 +26,11 @@ checkout = git clone 'git@salsa.debian.org:debian/viewnior.git' 'viewnior'
 [projects/students-record-book]
 checkout = git clone 'git@github.com:minikdo/students-record-book.git' 'students-record-book'
 
-[projects/estates-django-admin]
-checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/estates-django-admin.git' 'estates-django-admin'
+[projects/estates]
+checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/estates.git' 'estates'
 
-[projects/estates-django-site]
-checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/estates-django-site.git' 'estates-django-site'
+[projects/estates-www]
+checkout = git clone 'git.vpn.dominowisla.pl:/srv/git/estates-www.git' 'estates-www'
 
 [projects/domino]
 checkout = git clone 'git@github.com:minikdo/domino.git' 'domino'
