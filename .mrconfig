@@ -23,6 +23,9 @@ checkout = git clone 'git@salsa.debian.org:debian/pmount.git' 'pmount'
 [debian/viewnior]
 checkout = git clone 'git@salsa.debian.org:debian/viewnior.git' 'viewnior'
 
+[projects/playbooks]
+checkout = git clone 'ssh://git@codeberg.org/minikdo/ansible-django.git' 'playbooks'
+
 [projects/students-record-book]
 checkout = git clone 'git@github.com:minikdo/students-record-book.git' 'students-record-book'
 
